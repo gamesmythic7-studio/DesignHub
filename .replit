@@ -18,10 +18,3 @@ expertMode = true
 [postMerge]
 path = "scripts/post-merge.sh"
 timeoutMs = 20000
-
-[userenv]
-
-[userenv.shared]
-SMTP_HOST = "smtpout.secureserver.net"
-SMTP_PORT = "465"
-SMTP_USER = "karanmandal@designhub.website"
